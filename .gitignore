@@ -43,3 +43,9 @@ next-env.d.ts
 
 # OS
 Thumbs.db
+
+# Environment variables
+.env.local
+.env
+.env.production
+.env.development
